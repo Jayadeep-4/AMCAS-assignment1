@@ -1,0 +1,6 @@
+*.o
+*.pyc
+__pycache__/
+m5out/
+build/
+cacti/
