@@ -1,0 +1,110 @@
+<?xml version="1.0" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+  width="100%" height="100%" viewBox="0 0 1024 768"
+  style="fill: none; font-family: Helvetica;
+ font: Helvetica;
+">
+
+<!-- Creator: NGspice -->
+
+<rect x="0" y="0" width="1024" height="768" fill="black" stroke="none"/>
+<text stroke="none" fill="white" font-size="16" x="358" y="752">
+vdd_results
+</text>
+<text stroke="none" fill="white" font-size="16" x="10" y="16">
+tran11: Constant values
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M70 704l0 -640"/>
+<text stroke="none" fill="white" font-size="16" x="50" y="728">
+0.60
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M158 704l0 -640"/>
+<text stroke="none" fill="white" font-size="16" x="138" y="728">
+0.65
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M246 704l0 -640"/>
+<text stroke="none" fill="white" font-size="16" x="226" y="728">
+0.70
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M334 704l0 -640"/>
+<text stroke="none" fill="white" font-size="16" x="314" y="728">
+0.75
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M422 704l0 -640"/>
+<text stroke="none" fill="white" font-size="16" x="402" y="728">
+0.80
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M510 704l0 -640"/>
+<text stroke="none" fill="white" font-size="16" x="490" y="728">
+0.85
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M598 704l0 -640"/>
+<text stroke="none" fill="white" font-size="16" x="578" y="728">
+0.90
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M686 704l0 -640"/>
+<text stroke="none" fill="white" font-size="16" x="666" y="728">
+0.95
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M774 704l0 -640"/>
+<text stroke="none" fill="white" font-size="16" x="754" y="728">
+1.00
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M862 704l0 -640"/>
+<text stroke="none" fill="white" font-size="16" x="842" y="728">
+1.05
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M950 704l0 -640"/>
+<text stroke="none" fill="white" font-size="16" x="930" y="728">
+1.10
+</text>
+<text stroke="none" fill="white" font-size="16" x="614" y="752">
+     
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M70 704l880 0"/>
+<text stroke="none" fill="white" font-size="16" x="18" y="712">
+150.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M70 624l880 0"/>
+<text stroke="none" fill="white" font-size="16" x="18" y="632">
+200.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M70 544l880 0"/>
+<text stroke="none" fill="white" font-size="16" x="18" y="552">
+250.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M70 464l880 0"/>
+<text stroke="none" fill="white" font-size="16" x="18" y="472">
+300.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M70 384l880 0"/>
+<text stroke="none" fill="white" font-size="16" x="18" y="392">
+350.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M70 304l880 0"/>
+<text stroke="none" fill="white" font-size="16" x="18" y="312">
+400.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M70 224l880 0"/>
+<text stroke="none" fill="white" font-size="16" x="18" y="232">
+450.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M70 144l880 0"/>
+<text stroke="none" fill="white" font-size="16" x="18" y="152">
+500.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M70 64l880 0"/>
+<text stroke="none" fill="white" font-size="16" x="18" y="72">
+550.0
+</text>
+<text stroke="none" fill="white" font-size="16" x="10" y="32">
+m     
+</text>
+<path stroke="red" d="M440 23l44 0"/>
+<text stroke="none" fill="white" font-size="16" x="494" y="32">
+dv_results
+</text>
+<path stroke="red" d="M862 130l88 -51M774 182l88 -52M598 290l176 -108M422 402l176 -112M158 576l264 -174M70 635l88 -59"/>
+</svg>

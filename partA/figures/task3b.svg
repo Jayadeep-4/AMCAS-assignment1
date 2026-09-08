@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+  width="100%" height="100%" viewBox="0 0 1024 768"
+  style="fill: none; font-family: Helvetica;
+ font: Helvetica;
+">
+
+<!-- Creator: NGspice -->
+
+<rect x="0" y="0" width="1024" height="768" fill="black" stroke="none"/>
+<text stroke="none" fill="white" font-size="16" x="358" y="752">
+vdd_results
+</text>
+<text stroke="none" fill="white" font-size="16" x="10" y="16">
+tran36: Constant values
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M70 704l0 -640"/>
+<text stroke="none" fill="white" font-size="16" x="45" y="728">
+250.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M196 704l0 -640"/>
+<text stroke="none" fill="white" font-size="16" x="171" y="728">
+300.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M322 704l0 -640"/>
+<text stroke="none" fill="white" font-size="16" x="297" y="728">
+350.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M448 704l0 -640"/>
+<text stroke="none" fill="white" font-size="16" x="423" y="728">
+400.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M574 704l0 -640"/>
+<text stroke="none" fill="white" font-size="16" x="549" y="728">
+450.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M700 704l0 -640"/>
+<text stroke="none" fill="white" font-size="16" x="675" y="728">
+500.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M826 704l0 -640"/>
+<text stroke="none" fill="white" font-size="16" x="801" y="728">
+550.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M952 704l0 -640"/>
+<text stroke="none" fill="white" font-size="16" x="927" y="728">
+600.0
+</text>
+<text stroke="none" fill="white" font-size="16" x="614" y="752">
+m     
+</text>
+<path stroke="white" d="M70 704l882 0"/>
+<text stroke="none" fill="white" font-size="16" x="38" y="712">
+0.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M70 640l882 0"/>
+<text stroke="none" fill="white" font-size="16" x="28" y="648">
+20.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M70 576l882 0"/>
+<text stroke="none" fill="white" font-size="16" x="28" y="584">
+40.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M70 512l882 0"/>
+<text stroke="none" fill="white" font-size="16" x="28" y="520">
+60.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M70 448l882 0"/>
+<text stroke="none" fill="white" font-size="16" x="28" y="456">
+80.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M70 384l882 0"/>
+<text stroke="none" fill="white" font-size="16" x="18" y="392">
+100.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M70 320l882 0"/>
+<text stroke="none" fill="white" font-size="16" x="18" y="328">
+120.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M70 256l882 0"/>
+<text stroke="none" fill="white" font-size="16" x="18" y="264">
+140.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M70 192l882 0"/>
+<text stroke="none" fill="white" font-size="16" x="18" y="200">
+160.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M70 128l882 0"/>
+<text stroke="none" fill="white" font-size="16" x="18" y="136">
+180.0
+</text>
+<path stroke="white" stroke-dasharray="1,2" d="M70 64l882 0"/>
+<text stroke="none" fill="white" font-size="16" x="18" y="72">
+200.0
+</text>
+<text stroke="none" fill="white" font-size="16" x="10" y="32">
+m     
+</text>
+<path stroke="red" d="M441 23l44 0"/>
+<text stroke="none" fill="white" font-size="16" x="495" y="32">
+dv_results
+</text>
+<path stroke="red" d="M902 131l50 -46M876 155l26 -24M851 177l25 -22M776 246l75 -69M750 268l26 -22M675 334l75 -66M650 355l25 -21M624 376l26 -21M599 397l25 -21M524 457l75 -60M498 475l26 -18M473 494l25 -19M423 528l50 -34M398 544l25 -16M372 560l26 -16"/>
+<path stroke="red" d="M347 575l25 -15M297 601l50 -26M272 613l25 -12M246 624l26 -11M221 634l25 -10M171 652l50 -18M146 659l25 -7M120 666l26 -7M70 676l50 -10"/>
+</svg>
