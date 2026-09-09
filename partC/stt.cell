@@ -1,0 +1,27 @@
+-MemCellType: MRAM
+-CellArea (F^2): 54
+-CellAspectRatio: 2.0
+-ResistanceOn (ohm): 3000
+-ResistanceOff (ohm): 6000
+-ReadMode: current
+-ReadCurrent (uA): 40
+-ReadPower (uW): 145
+-ResetMode: current
+-ResetCurrent (uA): 200
+-ResetPulse (ns): 10
+-SetMode: current
+-SetCurrent (uA): 200
+-SetPulse (ns): 10
+-AccessType: CMOS
+-AccessCMOSWidth (F): 6
+
+# FIXED: the handout merges two directives onto one line as
+#   -SetMode: current-SetCurrent (uA): 200
+# NVSim then reads SetMode as the whole string and never sees SetCurrent.
+#
+# NOTE: this 16-line file omits fields the shipped sample_STTRAM.cell has:
+#   -ReadVoltage (V): 0.25
+#   -MinSenseVoltage (mV): 25
+#   -VoltageDropAccessDevice (V): 0.15
+#   -ResetEnergy (pJ) / -SetEnergy (pJ)
+# Their absence is why Tasks 3 and 4 barely move. See README.
